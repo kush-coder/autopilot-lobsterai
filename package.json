@@ -251,7 +251,7 @@
     "@univerjs/find-replace": "1.0.2",
     "@univerjs/rpc": "1.0.2",
     "@univerjs/sheets": "1.0.2",
-    "@univerjs/sheets-conditional-formatting": "1.0.2",
+    "@univerjs/sheets-conditional-formatting": "1.2.0",
     "@univerjs/sheets-conditional-formatting-ui": "1.0.2",
     "@univerjs/sheets-data-validation": "1.0.2",
     "@univerjs/sheets-data-validation-ui": "1.0.2",
